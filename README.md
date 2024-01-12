@@ -57,3 +57,6 @@ This repository is to be used as a _git playground_ for beginners to practice th
 
 - 🔗 [vscode-icons VS Code Extension](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 - 🔗 [Github Themes VS Code Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3ed24035-f541-4f78-afbd-87a35acac5fe/deploy-status)](https://app.netlify.com/sites/lovely-croquembouche-4ca5da/deploys)
